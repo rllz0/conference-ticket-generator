@@ -21,7 +21,6 @@ This is a solution to the [Conference Ticket Generator challenge on Frontend Men
       - [Responsive Design Across Devices](#responsive-design-across-devices)
       - [Dynamic Ticket Generation](#dynamic-ticket-generation)
     - [Continued Development](#continued-development)
-    - [Useful Resources](#useful-resources)
   - [Author](#author)
 
 ## Overview
@@ -235,13 +234,5 @@ Areas I want to focus on in future projects include:
 - Adding the ability to download or share the generated ticket
 - Enhancing the drag and drop functionality with progress indicators
 - Adding more robust image processing capabilities
-
-### Useful Resources
-
-- [MDN Web Docs - Drag & Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) - Comprehensive guide to implementing drag and drop functionality
-- [CSS-Tricks - Background Image Tips](https://css-tricks.com/perfect-full-page-background-image/) - Helped with complex background layering techniques
-- [Web.dev - File Upload Best Practices](https://web.dev/patterns/files/) - Great resource for learning about file upload best practices
-- [MDN Web Docs - FileReader API](https://developer.mozilla.org/en-US/docs/Web/API/FileReader) - Essential for implementing image preview functionality
-
 ## Author
 
